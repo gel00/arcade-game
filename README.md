@@ -5,7 +5,7 @@ This is the coolest minigame all the time! Seriously ;).
 
 ## How to Play
 
-To run the game, please open index.html or visit [my github page](https://gel00.github.io/frontend-nanodegree-arcade-game/)!
+To run the game, please open index.html or visit [my github page](https://gel00.github.io/arcade-game/)!
 
 ## Goal
 
